@@ -1,2 +1,1 @@
-# Homepage :smiley: :blush:
-A repository for résumé website created during Binary Studio Academy task1.
+My very own personal website. Basically this is just a résumé.
